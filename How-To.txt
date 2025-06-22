@@ -1,0 +1,4 @@
+edit config.inc.php 
+upload files
+enter mysql tables (n0ise.sql)
+done!
