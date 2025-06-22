@@ -1,0 +1,21 @@
+C:\Users\M4x123\Documents\Reflector\Disassembler\server\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\M4x123\Documents\Reflector\Disassembler\server\bin\Debug\server.exe
+C:\Users\M4x123\Documents\Reflector\Disassembler\server\bin\Debug\server.pdb
+C:\Users\M4x123\Documents\Reflector\Disassembler\server\obj\Debug\server.exe
+C:\Users\M4x123\Documents\Reflector\Disassembler\server\obj\Debug\server.pdb
+C:\Users\jack\Desktop\code source server\bin\Debug\server.exe
+C:\Users\jack\Desktop\code source server\bin\Debug\server.pdb
+C:\Users\jack\Desktop\code source server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\jack\Desktop\code source server\obj\Debug\server.csproj.CoreCompileInputs.cache
+C:\Users\jack\Desktop\code source server\obj\Debug\server.exe
+C:\Users\jack\Desktop\code source server\obj\Debug\server.pdb
+C:\Users\badmin\Desktop\New folder\code source server\bin\Debug\server.exe
+C:\Users\badmin\Desktop\New folder\code source server\bin\Debug\server.pdb
+C:\Users\badmin\Desktop\New folder\code source server\obj\Debug\server.csprojAssemblyReference.cache
+C:\Users\badmin\Desktop\New folder\code source server\obj\Debug\server.exe
+C:\Users\badmin\Desktop\New folder\code source server\obj\Debug\server.pdb
+D:\nwefolder\New folder\code source server\bin\Debug\server.exe
+D:\nwefolder\New folder\code source server\bin\Debug\server.pdb
+D:\nwefolder\New folder\code source server\obj\Debug\server.csprojAssemblyReference.cache
+D:\nwefolder\New folder\code source server\obj\Debug\server.exe
+D:\nwefolder\New folder\code source server\obj\Debug\server.pdb
